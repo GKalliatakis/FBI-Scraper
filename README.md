@@ -1,4 +1,6 @@
 # FBI Scraper -- Flickr Bulk Image Scraper
+<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
+
 ### A simple, multithreaded image scraper implemented in Python for downloading all images from the Flickr web service for a given keyword and time period.
 
 ### Installation
